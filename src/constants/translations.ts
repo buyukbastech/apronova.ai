@@ -59,7 +59,7 @@ export const translations = {
             items: [
                 { title: 'Akıllı CRM Sistemi', description: 'Tüm müşteri datanızı ve etkileşimlerinizi tek panelden analiz edin, işinizi ölçeklendirin' },
                 { title: '7/24 Aktif Destek', description: 'Her türlü teknik durumda uzman ekibimiz anında destek sağlar.' },
-                { title: 'Otomatik Randevu', description: 'Randevu oluşturma, değiştirme ve iptal işlemlerini otomatik olarak yönetin.' },
+                { title: 'Randevu Takip', description: 'Randevu oluşturma, değiştirme ve iptal işlemlerini tek bir yerden yönetin.' },
                 { title: 'KVKK Uyumlu', description: "Tüm müşteri verileri Türkiye'de güvenli sunucularda KVKK standartlarına uygun şekilde saklanır." },
                 { title: 'Anında Kurulum', description: 'Teknik süreçleri tamamen biz yönetiyoruz; sisteminizi her şeyiyle hazır bir şekilde size teslim ediyoruz.' },
                 { title: 'Çoklu Kullanıcı', description: 'Tüm ekibiniz tek bir panelden müşteri iletişimini takip edebilir.' }
@@ -172,7 +172,7 @@ export const translations = {
             items: [
                 { title: 'Smart CRM System', description: 'Analyze all your customer data and interactions from a single panel, scale your business' },
                 { title: '24/7 Active Support', description: 'Our expert team provides instant support in any technical situation.' },
-                { title: 'Auto Scheduling', description: 'Automatically manage appointment creation, rescheduling, and cancellation.' },
+                { title: 'Appointment Tracking', description: 'Manage appointment creation, rescheduling, and cancellation from a single place.' },
                 { title: 'GDPR Compliant', description: "All customer data is stored on secure servers in accordance with GDPR standards." },
                 { title: 'Instant Setup', description: 'We manage all technical processes; we deliver your system fully ready.' },
                 { title: 'Multi-User', description: 'Your entire team can track customer communication from a single panel.' }
