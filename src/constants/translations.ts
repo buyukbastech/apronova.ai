@@ -73,9 +73,9 @@ export const translations = {
             },
             description: 'Karmaşık kurulumlar yok, teknik bilgi gerekmiyor. Dakikalar içinde başlayın.',
             steps: [
-                { title: "Müşteri WhatsApp'tan Yazıyor", description: "Müşteriniz randevu almak, bilgi sormak veya mevcut randevusunu değiştirmek için WhatsApp üzerinden mesaj gönderir." },
-                { title: 'AI Asistan Anında Yanıt Veriyor', description: 'Yapay zeka destekli asistanınız müşterinin mesajını anlayarak saniyeler içinde doğru ve profesyonel bir yanıt üretir.' },
-                { title: 'İşlem Otomatik Tamamlanıyor', description: 'Randevu oluşturma, hatırlatma gönderme veya bilgi aktarma gibi işlemler otomatik olarak gerçekleştirilir.' }
+                { title: "Müşteri Talebi Oluşur", description: "Müşteriniz randevu almak veya bilgi edinmek için sisteme giriş yaparak talebini iletir." },
+                { title: "Sistem Otomatik Eşleştirir", description: "Gelen talepler, çalışma takviminize ve müsaitlik durumunuza göre anında kontrol edilerek düzenlenir." },
+                { title: "Randevu ve Takip Tamamlanır", description: "Kayıtlar oluşturulur, bildirimler gönderilir ve tüm süreç otomatik olarak CRM sisteminize işlenir." }
             ]
         },
         cta: {
@@ -186,9 +186,9 @@ export const translations = {
             },
             description: 'No complex setups, no technical knowledge required. Start in minutes.',
             steps: [
-                { title: "Customer Writes on WhatsApp", description: "Your customer sends a message via WhatsApp to book an appointment, ask for info, or reschedule." },
-                { title: 'AI Assistant Responds Instantly', description: 'Your AI-powered assistant understands the message and generates an accurate professional response in seconds.' },
-                { title: 'Process Completes Automatically', description: 'Actions like booking, sending reminders, or providing info are performed automatically.' }
+                { title: "Customer Request Created", description: "Your customer submits a request by logging into the system to book an appointment or get information." },
+                { title: "System Matches Automatically", description: "Incoming requests are instantly checked and organized according to your work schedule and availability." },
+                { title: "Booking and Tracking Completed", description: "Records are created, notifications are sent, and the entire process is automatically recorded in your CRM system." }
             ]
         },
         cta: {
