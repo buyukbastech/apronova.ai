@@ -44,7 +44,7 @@ export const translations = {
             items: [
                 { title: 'Akıllı Analiz ve Değerlendirme', description: 'Yapay zeka destekli analizler ile iş süreçlerinizi ve müşteri taleplerini uzaktan değerlendirin.' },
                 { title: 'CRM Entegrasyonu', description: 'Mevcut sistemlerinizle kusursuz entegrasyon.' },
-                { title: 'Randevu Takip Sistemi', description: 'Randevuya gelmeyen müşterileri geri getiren sistem.' },
+                { title: 'Randevu Takip Sistemi', description: 'Müşterileriniz gece gündüz randevu alabilir; randevuya gelmeyen müşterileri geri getiren sistem.' },
                 { title: 'Gelişmiş Analitik', description: 'Müşteri dönüşüm oranları ve performans metrikleri.' },
                 { title: 'Müşteri Sadakati', description: 'Otomatik doğum günü mesajları, kampanya ve puan sistemleri.' }
             ]
@@ -157,7 +157,7 @@ export const translations = {
             items: [
                 { title: 'Intelligent Analysis & Evaluation', description: 'Evaluate business processes and customer needs remotely with AI-powered analysis.' },
                 { title: 'CRM Integration', description: 'Seamless integration with your existing systems.' },
-                { title: 'Appointment Tracking System', description: 'A system that brings back customers who missed their appointments.' },
+                { title: 'Appointment Tracking System', description: 'Customers can book appointments 24/7; a system that brings back customers who missed their appointments.' },
                 { title: 'Advanced Analytics', description: 'Customer conversion rates and performance metrics.' },
                 { title: 'Customer Loyalty', description: 'Automated birthday messages, campaigns, and point systems.' }
             ]
