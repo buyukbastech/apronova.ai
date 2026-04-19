@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { MessageCircle, Clock, Calendar, Shield, Zap, Users } from 'lucide-react';
+import { LayoutDashboard, Clock, Calendar, Shield, Zap, Users } from 'lucide-react';
 import { BorderBeam } from './BorderBeam';
 import { useLanguage } from '@/context/LanguageContext';
 
@@ -8,7 +8,7 @@ const SolutionsSection = () => {
 
     const solutions = [
         {
-            icon: MessageCircle,
+            icon: LayoutDashboard,
             title: t.solutions.items[0].title,
             description: t.solutions.items[0].description,
         },
