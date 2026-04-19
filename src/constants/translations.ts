@@ -23,8 +23,8 @@ export const translations = {
             },
             subtitle: {
                 part1: 'Yapay zeka destekli ',
-                part2: 'WhatsApp asistanı ve akıllı CRM',
-                part3: ' ile randevularınızı otomatikleştirin, gelirinizi takip edin.'
+                part2: 'akıllı CRM',
+                part3: ' ile randevularınızı ve gelirinizi takip edin.'
             },
             demoBtn: 'Demo Talep Et',
             howItWorksBtn: 'Nasıl Çalışır?'
@@ -135,8 +135,8 @@ export const translations = {
                 part4: 'your brand.'
             },
             subtitle: {
-                part1: 'Automate your appointments and track your revenue with ',
-                part2: 'AI-powered WhatsApp assistant and smart CRM.',
+                part1: 'Track your appointments and revenue with ',
+                part2: 'AI-powered smart CRM.',
                 part3: ''
             },
             demoBtn: 'Request Demo',
