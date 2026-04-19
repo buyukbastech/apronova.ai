@@ -80,7 +80,7 @@ export const translations = {
         },
         cta: {
             title: 'İşletmenizi Dijitalleştirmeye Hazır mısınız?',
-            description: 'Tüm entegrasyonu profesyonel ekibimizle sizin yerinize biz tamamlıyoruz.',
+            description: 'Tüm kurulumu profesyonel ekibimizle sizin yerinize biz sağlıyoruz.',
             btn: 'Ücretsiz Demo Talep Et'
         },
         demoModal: {
@@ -193,7 +193,7 @@ export const translations = {
         },
         cta: {
             title: 'Ready to Digitize Your Business?',
-            description: 'We complete the entire integration for you with our professional team.',
+            description: 'We provide the entire setup for you with our professional team.',
             btn: 'Request Free Demo'
         },
         demoModal: {
