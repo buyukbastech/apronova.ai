@@ -74,12 +74,7 @@ const GlassHeader = () => {
             >
               <Instagram size={20} />
             </a>
-            <a
-              href="https://panel.apronova.ai/login"
-              className="glass-card px-6 py-2.5 text-sm font-medium hover:bg-white/10 transition-all duration-300 hover:scale-105"
-            >
-              {t.header.login}
-            </a>
+
             <button
               onClick={() => setIsDemoModalOpen(true)}
               className="btn-glow animate-glow-pulse"
@@ -130,12 +125,7 @@ const GlassHeader = () => {
                 >
                   <Instagram size={24} />
                 </a>
-                <a
-                  href="https://panel.apronova.ai/login"
-                  className="glass-card flex items-center justify-center py-3 text-sm font-medium hover:bg-white/10 transition-colors"
-                >
-                  {t.header.login}
-                </a>
+
               </div>
 
               <button
