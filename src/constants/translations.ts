@@ -73,7 +73,7 @@ export const translations = {
             },
             description: 'Karmaşık kurulumlar yok, teknik bilgi gerekmiyor. Dakikalar içinde başlayın.',
             steps: [
-                { title: "Müşteri Talebi Oluşur", description: "Müşteriniz randevu almak veya bilgi edinmek için sisteme giriş yaparak talebini iletir." },
+                { title: "Müşteri Talebi Oluşturur", description: "Müşteriniz randevu almak veya bilgi edinmek için sisteme giriş yaparak talebini iletir." },
                 { title: "Sistem Otomatik Eşleştirir", description: "Gelen talepler, çalışma takviminize ve müsaitlik durumunuza göre anında kontrol edilerek düzenlenir." },
                 { title: "Randevu ve Takip Tamamlanır", description: "Kayıtlar oluşturulur, bildirimler gönderilir ve tüm süreç otomatik olarak CRM sisteminize işlenir." }
             ]
