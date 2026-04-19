@@ -55,7 +55,7 @@ export const translations = {
                 part1: 'İki Güçlü Çözüm, ',
                 part2: 'Tek Platform'
             },
-            description: 'WhatsApp AI asistanı ve akıllı CRM paneli ile işletmenizi dijital çağa taşıyın.',
+            description: 'Akıllı CRM paneli ile işletmenizi dijital çağa taşıyın.',
             items: [
                 { title: 'WhatsApp Entegrasyonu', description: 'Müşterileriniz zaten kullandıkları WhatsApp üzerinden size kolayca ulaşabilir.' },
                 { title: '7/24 Aktif Destek', description: 'Yapay zeka asistanınız gece gündüz demeden müşterilerinizin sorularına anında yanıt verir.' },
@@ -168,7 +168,7 @@ export const translations = {
                 part1: 'Two Powerful Solutions, ',
                 part2: 'One Platform'
             },
-            description: 'Carry your business into the digital age with the WhatsApp AI assistant and smart CRM panel.',
+            description: 'Carry your business into the digital age with the smart CRM panel.',
             items: [
                 { title: 'WhatsApp Integration', description: 'Your customers can easily reach you via WhatsApp, which they already use.' },
                 { title: '24/7 Active Support', description: 'Your AI assistant answers customer questions day and night.' },
