@@ -57,7 +57,7 @@ export const translations = {
             },
             description: 'Akıllı CRM paneli ile işletmenizi dijital çağa taşıyın.',
             items: [
-                { title: 'WhatsApp Entegrasyonu', description: 'Müşterileriniz zaten kullandıkları WhatsApp üzerinden size kolayca ulaşabilir.' },
+                { title: 'Akıllı CRM Sistemi', description: 'Müşterileriniz zaten kullandıkları WhatsApp üzerinden size kolayca ulaşabilir.' },
                 { title: '7/24 Aktif Destek', description: 'Yapay zeka asistanınız gece gündüz demeden müşterilerinizin sorularına anında yanıt verir.' },
                 { title: 'Otomatik Randevu', description: 'Randevu oluşturma, değiştirme ve iptal işlemlerini otomatik olarak yönetin.' },
                 { title: 'KVKK Uyumlu', description: "Tüm müşteri verileri Türkiye'de güvenli sunucularda KVKK standartlarına uygun şekilde saklanır." },
@@ -170,7 +170,7 @@ export const translations = {
             },
             description: 'Carry your business into the digital age with the smart CRM panel.',
             items: [
-                { title: 'WhatsApp Integration', description: 'Your customers can easily reach you via WhatsApp, which they already use.' },
+                { title: 'Smart CRM System', description: 'Your customers can easily reach you via WhatsApp, which they already use.' },
                 { title: '24/7 Active Support', description: 'Your AI assistant answers customer questions day and night.' },
                 { title: 'Auto Scheduling', description: 'Automatically manage appointment creation, rescheduling, and cancellation.' },
                 { title: 'GDPR Compliant', description: "All customer data is stored on secure servers in accordance with GDPR standards." },
